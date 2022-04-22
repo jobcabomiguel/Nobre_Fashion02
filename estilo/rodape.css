@@ -9,7 +9,7 @@ footer{
         width: 16%;
         margin:0px;
         position: relative;
-        background-image:url(../logo.png);
+        background-image:url(../logos.png);
         background-size:cover;
         width: 200px;
         height: 200px;
@@ -119,10 +119,6 @@ footer{
     }
      
     @media(max-width:1000px){
-    .rodape{
-        display: inline-table; 
-        background-image:url(../logo.png);
-    }
     /*Fromatacao de todos os li do rodape*/
     .rodape li{
             font-size: 1.2em;
@@ -174,7 +170,6 @@ footer{
     @media(max-width:900px){
     .rodape{
         display: inline-table; 
-        background-image:url(../IMG/logo.png);
     }
     /*Fromatacao de todos os li do rodape*/
     .rodape li{
@@ -315,6 +310,9 @@ footer{
     }
     .control{
         width: 99%;
+    }
+    .rodape{
+
     }
 
     /*Zona direita onde ha icones ou imagens linkadas*/

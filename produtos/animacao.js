@@ -11,9 +11,9 @@ function aplicarIMG(msg){
         zona2.style.transition = "2s ease-in-out";
         zona3.style.transition = "3s ease-in";
  
-        zona1.style.backgroundImage = "url('../IMG/roupa"+imagem1+".jpg')";
-        zona2.style.backgroundImage = "url('../IMG/roupa"+imagem2+".jpg')";
-        zona3.style.backgroundImage = "url('../IMG/roupa"+imagem3+".jpg')";
+        zona1.style.backgroundImage = "url('../roupa"+imagem1+".jpg')";
+        zona2.style.backgroundImage = "url('../roupa"+imagem2+".jpg')";
+        zona3.style.backgroundImage = "url('../roupa"+imagem3+".jpg')";
 
         
 }

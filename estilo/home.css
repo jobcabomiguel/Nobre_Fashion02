@@ -49,7 +49,7 @@
             font-family:tahoma;
         }
         #html{
-            background:url("imagens/bom-fun2.jpg");
+            background-image:url("../fundo1.jpg");
             background-attachment: fixed;
             transition: easy-in-out 2s; 
         }
