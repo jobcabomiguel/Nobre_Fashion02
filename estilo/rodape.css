@@ -9,7 +9,7 @@ footer{
         width: 16%;
         margin:0px;
         position: relative;
-        background-image:url(../IMG/logo.png);
+        background-image:url(../logo.png);
         background-size:cover;
         width: 200px;
         height: 200px;
@@ -121,7 +121,7 @@ footer{
     @media(max-width:1000px){
     .rodape{
         display: inline-table; 
-        background-image:url(../IMG/logo.png);
+        background-image:url(../logo.png);
     }
     /*Fromatacao de todos os li do rodape*/
     .rodape li{

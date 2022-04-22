@@ -75,22 +75,22 @@
             color: white;
         }
         .fundo1{
-            background-image: url(../imagens/values-1.jpg);
+            background-image: url(../values-1.jpg);
         }
         .fundo2{
-            background-image: url(../imagens/values-2.jpg);
+            background-image: url(../values-2.jpg);
         }
         .fundo3{
-            background-image: url(../imagens/values-3.jpg);
+            background-image: url(../values-3.jpg);
         }
         .fundo4{
-            background-image: url(../imagens/values-4.jpg);
+            background-image: url(../values-4.jpg);
         }
         .fundo5{
-            background-image: url(../imagens/values-1.jpg);
+            background-image: url(../values-1.jpg);
         }
         .fundo6{
-            background-image: url(../imagens/values-2.jpg);
+            background-image: url(../values-2.jpg);
         }
 
         @media(max-width: 1400px){
