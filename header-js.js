@@ -2,7 +2,7 @@ campo_zona = window.document.getElementById('html');
 n = document.getElementById('numero_nobre').innerText = '244 945-632-475';
         function carregar(imagens){
                 actual = imagens;
-                campo_zona.style.backgroundImage = "url('imagens/fundo"+actual+".jpg')";
+                campo_zona.style.backgroundImage = "url('fundo"+actual+".jpg')";
                 campo_zona.style.backgroundSize = "cover";
                 campo_zona.style.transition = "4s ease-in-out";
 
